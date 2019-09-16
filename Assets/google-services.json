@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "464365479427",
+    "firebase_url": "https://lights-7c4ff.firebaseio.com",
+    "project_id": "lights-7c4ff",
+    "storage_bucket": "lights-7c4ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464365479427:android:6413fb4919c3b9a6",
+        "android_client_info": {
+          "package_name": "com.viven.lights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464365479427-4atdeja2ars6oe5hmlkn2m1v5p50rlrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viven.lights",
+            "certificate_hash": "9465682de28d4136fb95add4373a5627fb2efd3f"
+          }
+        },
+        {
+          "client_id": "464365479427-8jf024aeujhmgtk4o9mm7ppns1s2vs9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBVlyQ2JK-uorK66W8QPsbkmhGC8WduDQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464365479427-8jf024aeujhmgtk4o9mm7ppns1s2vs9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
